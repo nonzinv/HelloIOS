@@ -19,3 +19,5 @@ Change the displayed name of the app on the home screen to be "Hello"
 you will need to Google this one
 
 Hint: it's a setting in the project
+
+*ran on iPhone 14 Pro Emulator.
